@@ -44,7 +44,7 @@ Shopery is a comprehensive e-commerce platform built with Django, designed to pr
    ```bash
    python manage.py runserver
 
-   Visit http://127.0.0.1:8000/ to view the site.
+Visit http://127.0.0.1:8000/ to view the site.
 
 
 
